@@ -1,9 +1,9 @@
 # Test for Terraform
-
-## For testing purposes only
+For testing purposes only
 
 
 ### Provider: AWS
+Region: "ap-northeast-1"
 
 #### Resources: 
 + EC2 Instance
